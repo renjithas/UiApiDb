@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>obj_ClothingDresses_Link</name>
+   <tag></tag>
+   <elementGuidId>f4597c96-54ff-449a-99da-5aa432b2f9a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[text()='Dresses'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[text()='Dresses'])[1]</value>
+      <webElementGuid>069d25fd-4285-4dbc-bdc3-bf168dc2a67a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

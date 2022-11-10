@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>obj_FashionTab_Button</name>
+   <tag></tag>
+   <elementGuidId>020177ec-8852-4d7a-9374-d7b0caaaa26a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[text()='Fashion'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[text()='Fashion'])[1]</value>
+      <webElementGuid>225f7335-d317-47ea-a913-1adff510a706</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

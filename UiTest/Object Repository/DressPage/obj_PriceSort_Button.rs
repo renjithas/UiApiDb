@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>obj_PriceSort_Button</name>
+   <tag></tag>
+   <elementGuidId>154f259d-6393-4820-ba25-18ecf9c26249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-vars-lb='Price']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-vars-lb='Price']</value>
+      <webElementGuid>2790871f-b12c-4428-bb46-467bc1d21419</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+{
+  "keywordFileContentHash": "6F35A0362377D19E66CE5861406B0869",
+  "keywordClasses": [
+    {
+      "name": "my.iprice.dressesPackage.DressesLibrary",
+      "keywordMethods": [
+        {
+          "name": "fn_navigateToClothingDressesPage",
+          "parameters": []
+        },
+        {
+          "name": "fn_sortPriceInDescending",
+          "parameters": [
+            {
+              "name": "sortOrder",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "fn_validateSortOrder",
+          "parameters": [
+            {
+              "name": "sortOrder",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

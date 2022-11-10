@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "BFBF7BA1E0398B362DEF5CB42C27B61F",
+  "keywordClasses": [
+    {
+      "name": "my.iprice.laptopsPackage.LaptopsLibrary",
+      "keywordMethods": [
+        {
+          "name": "fn_filterLaptopBrand",
+          "parameters": [
+            {
+              "name": "laptopBrand",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

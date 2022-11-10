@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>obj_ComputingLaptops_Link</name>
+   <tag></tag>
+   <elementGuidId>9df085ec-11fb-4502-9b50-e533fe57b029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='computing/laptops/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='computing/laptops/']</value>
+      <webElementGuid>22a16466-1d6a-46d3-96fa-7ef9d1dc76bf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

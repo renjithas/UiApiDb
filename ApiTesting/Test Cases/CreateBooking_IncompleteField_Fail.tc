@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateBooking_IncompleteField_Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f4aaf6-9659-41ce-8918-255b4f43d07b</testCaseGuid>
+</TestCaseEntity>
